@@ -1,0 +1,12 @@
+build
+.build
+.serverless
+node_modules
+.DS_Store
+.history
+awscli-bundle.zip
+awscli-bundle/
+.vscode
+yarn.lock
+dump.rdb
+.env
